@@ -7,21 +7,6 @@
     💻 Técnica em Informática<br>
     🚀 Apaixonada por tecnologia, programação e inovação
   </p>
-
-</div>
-
-<div align="center">
-
-  <h2>👩🏻‍💻 Sobre mim</h2>
-
-  <p>
-    Sou estudante de Engenharia de Software, interessada em desenvolvimento de software,
-    especialmente Back-end. Gosto de aprender novas tecnologias, desenvolver projetos
-    e transformar ideias em soluções por meio da programação.
-  </p>
-
-</div>
-
 ---
 
 <div align="center">
