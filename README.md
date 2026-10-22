@@ -40,8 +40,6 @@
 
   <h2>🛠️ Tecnologias e ferramentas</h2>
 
-  <h3>💻 Linguagens e desenvolvimento</h3>
-
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
   &nbsp;
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3">
@@ -55,8 +53,6 @@
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot">
   &nbsp;
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot">
-
-  <h3>⚙️ Ferramentas</h3>
 
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git">
   &nbsp;
