@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
   <h1>💜 Oi! Eu sou a Amanda! 💜</h1>
@@ -102,5 +101,3 @@
     width="100%"
   />
 </div>
-
-```
