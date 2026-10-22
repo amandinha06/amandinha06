@@ -1,9 +1,7 @@
-## Oii, eu sou a Amanda! Seja bem-vindo(a)! 👋
+## Oi, eu sou a Amanda! Seja bem-vindo(a)! 👋
 
-- 🔭 Hoje eu sou Jovem Aprendiz em TI
-- 🌱 Estou fazendo faculdade Engenharia de Software
+- 🌱 Graduanda Engenharia de Software
 - 📫 a.dinjz06@gmail.com <- me chame!
-- 😄 Pronomes: ela/dela
 
  <div>
   <a href="https://github.com/amandinha06">
@@ -17,6 +15,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Godot" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
+ <img align="center" alt="Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
 </div>
 
 ##
