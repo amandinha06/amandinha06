@@ -1,26 +1,106 @@
+```html
 <div align="center">
-  <h2> Oi!! Eu sou a Amanda, seja bem-vindo(a)! </h2>
-  <p>Graduanda em Engenharia de Software & formada em Técnologia de Informação.</p>
-</div>
 
- <div>
+  <h1>💜 Oi! Eu sou a Amanda! 💜</h1>
+
+  <p>
+    🎓 Graduanda em Engenharia de Software<br>
+    💻 Técnica em Informática<br>
+    🚀 Apaixonada por tecnologia, programação e inovação
+  </p>
+
   <a href="https://github.com/amandinha06">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandinha06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandinha06&layout=compact&langs_count=16&theme=dracula"/>
+    <img src="https://img.shields.io/badge/GitHub-amandinha06-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Godot" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
- <img align="center" alt="Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
- <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+---
+
+<div align="center">
+
+  <h2>👩🏻‍💻 Sobre mim</h2>
+
+  <p>
+    Sou estudante de Engenharia de Software, interessada em desenvolvimento de software,
+    especialmente Back-end. Gosto de aprender novas tecnologias, desenvolver projetos
+    e transformar ideias em soluções por meio da programação.
+  </p>
+
 </div>
 
-<div> 
-  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:a.dinjz06@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/a.dinjz/?next=%2F)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/amanda-da-silva-diniz-nogueira-027b422a4/) 
+---
+
+<div align="center">
+
+  <h2>📊 GitHub Stats</h2>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandinha06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandinha06&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais utilizadas">
+
 </div>
+
+---
+
+<div align="center">
+
+  <h2>🛠️ Tecnologias e ferramentas</h2>
+
+  <h3>💻 Linguagens e desenvolvimento</h3>
+
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
+  &nbsp;
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3">
+  &nbsp;
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
+  &nbsp;
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
+  &nbsp;
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java">
+  &nbsp;
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot">
+  &nbsp;
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot">
+
+  <h3>⚙️ Ferramentas</h3>
+
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git">
+  &nbsp;
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub">
+
+</div>
+
+---
+
+<div align="center">
+
+  <h2>📫 Entre em contato comigo!</h2>
+
+  <a href="https://instagram.com/a.dinjz">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/amanda-da-silva-diniz-nogueira-027b422a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:a.dinjz06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+
+  <br><br>
+
+</div>
+
+---
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/amandinha06/amandinha06/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</div>
+
+```
