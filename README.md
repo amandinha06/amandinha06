@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>💜 Oi! Eu sou a Amanda! 💜</h1>
+  <h1>Oi! Eu sou a Amanda!</h1>
 
   <p>
     🎓 Graduanda em Engenharia de Software<br>
