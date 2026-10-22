@@ -1,7 +1,7 @@
-## Oi, eu sou a Amanda! Seja bem-vindo(a)! 👋
-
-- 🌱 Graduanda Engenharia de Software
-- 📫 a.dinjz06@gmail.com <- me chame!
+<div align="center">
+  <h2> Oi!! Eu sou a Amanda, seja bem-vindo(a)! </h2>
+  <p>Graduanda em Engenharia de Software & formada em Técnologia de Informação.</p>
+</div>
 
  <div>
   <a href="https://github.com/amandinha06">
@@ -16,12 +16,11 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Godot" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
  <img align="center" alt="Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
+ <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
 </div>
 
-##
-
 <div> 
-  <a href="https://www.instagram.com/a.dinjz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://Discord.com/users/757727586041200731" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/amanda-da-silva-diniz-nogueira-027b422a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>  
+  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:a.dinjz06@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/a.dinjz/?next=%2F)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/amanda-da-silva-diniz-nogueira-027b422a4/) 
 </div>
