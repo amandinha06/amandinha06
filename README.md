@@ -1,12 +1,14 @@
 <div align="center">
 
-  <h1>Oi! Eu sou a Amanda!</h1>
+  <h1>💜 Oi! Eu sou a Amanda! 💜</h1>
 
   <p>
     🎓 Graduanda em Engenharia de Software<br>
     💻 Técnica em Informática<br>
     🚀 Apaixonada por tecnologia, programação e inovação
   </p>
+
+</div>
 
 <div align="center">
 
@@ -17,8 +19,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandinha06&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais utilizadas">
 
 </div>
-
----
 
 <div align="center">
 
@@ -37,14 +37,12 @@
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot">
   &nbsp;
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot">
-
+  &nbsp;
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git">
   &nbsp;
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub">
 
 </div>
-
----
 
 <div align="center">
 
