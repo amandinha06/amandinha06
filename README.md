@@ -7,7 +7,6 @@
     💻 Técnica em Informática<br>
     🚀 Apaixonada por tecnologia, programação e inovação
   </p>
----
 
 <div align="center">
 
