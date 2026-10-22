@@ -8,13 +8,7 @@
     🚀 Apaixonada por tecnologia, programação e inovação
   </p>
 
-  <a href="https://github.com/amandinha06">
-    <img src="https://img.shields.io/badge/GitHub-amandinha06-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-
 </div>
-
----
 
 <div align="center">
 
@@ -91,5 +85,3 @@
   <br><br>
 
 </div>
-
----
