@@ -93,11 +93,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/amandinha06/amandinha06/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</div>
